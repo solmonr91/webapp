@@ -1,0 +1,6 @@
+projectKey=com.example.maven-project:webapp
+serverUrl=http://65.2.169.39:9000
+serverVersion=7.6.0.21501
+dashboardUrl=http://65.2.169.39:9000/dashboard?id=com.example.maven-project%3Awebapp
+ceTaskId=AYdX52vo_flIJOoy9XWF
+ceTaskUrl=http://65.2.169.39:9000/api/ce/task?id=AYdX52vo_flIJOoy9XWF
